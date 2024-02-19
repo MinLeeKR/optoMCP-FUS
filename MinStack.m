@@ -13,8 +13,7 @@ classdef MinStack
     methods
         % constructor
         function obj = MinStack(inputArg1)
-            %UNTITLED2 이 클래스의 인스턴스 생성
-            %   자세한 설명 위치
+
             if nargin==1
                 obj.TIF = inputArg1;
             else
@@ -29,8 +28,7 @@ classdef MinStack
         
 %% Size Function
         function outputArg = size(obj)
-            %METHOD1 이 메서드의 요약 설명 위치
-            %   자세한 설명 위치
+            %METHOD1 
             outputArg = size(obj.TIF);
         end
         
