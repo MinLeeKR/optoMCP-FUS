@@ -1,6 +1,6 @@
 # optoMCP-FUS
 
-This project consists of a class "MinStack" and an example actuating code for MinStack, which enables TIF loading and particle detection/tracking. Basically this class is a reconstitution of publically accessible codes.
+This project consists of a class "MinStack" and an example actuating code for MinStack, which enables TIF loading and particle detection/tracking, ran on MATLAB R2019b. Basically, this class is a reconstitution of following publically accessible codes:
 
 *Reference:* (Particle detection/tracking)
 Ian Hosein (2024). Particle Point Analysis (https://www.mathworks.com/matlabcentral/fileexchange/42573-particle-point-analysis), MATLAB Central File Exchange.
